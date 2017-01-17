@@ -1,0 +1,41 @@
+hr{
+  border-width: thick;
+  border-color: black;
+}
+
+p{
+  font-family:sans-serif;
+}
+
+h3{
+  font-family: sans-serif;
+}
+
+
+#nav{
+  padding-top: 15px;
+}
+
+body{
+  background-color: 3AB8DA;
+}
+
+#header{
+  display:static;
+}
+
+#portrait{
+  margin-top: 20px;
+}
+
+#sweeten{
+  max-height: 600px;
+  max-width: 400px
+}
+
+
+@media only screen and (min-width: 1440px){
+  #portrait {
+    margin-left: 50px;
+  }
+}
